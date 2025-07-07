@@ -1,0 +1,53 @@
+
+Welcome to GIT hub learning 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      width: 80%;
+      margin: auto;
+      overflow: hidden;
+      padding: 20px;
+      background: white;
+      margin-top: 40px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #5a67d8;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Hello, I'm Balaji</h1>
+    <p>Welcome to my personal webpage. Here are a few things about me:</p>
+
+    <ul>
+      <li><strong>Profession:</strong> Software Developer</li>
+      <li><strong>Skills:</strong> HTML, CSS, JavaScript, Python, Git</li>
+      <li><strong>Hobbies:</strong> Gaming, Music, Learning Tech</li>
+    </ul>
+  </div>
+
+</body>
+</html>
+Welcome to my learning 
